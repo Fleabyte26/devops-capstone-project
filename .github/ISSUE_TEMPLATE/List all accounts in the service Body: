@@ -1,0 +1,8 @@
+**As a** developer  
+**I want** to list all customer accounts  
+**So that** I can view all accounts at once  
+
+**Acceptance Criteria:**  
+- [ ] Implement GET endpoint for all accounts  
+- [ ] Return accounts in JSON array  
+- [ ] Test endpoint with multiple accounts
