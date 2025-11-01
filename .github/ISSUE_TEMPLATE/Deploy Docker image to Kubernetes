@@ -1,0 +1,8 @@
+**As a** developer  
+**I want** to deploy the Docker image to Kubernetes  
+**So that** the service is scalable and accessible  
+
+**Acceptance Criteria:**  
+- [ ] Kubernetes deployment YAML created  
+- [ ] Deployment runs successfully in cluster  
+- [ ] Service reachable via cluster IP or ingress
