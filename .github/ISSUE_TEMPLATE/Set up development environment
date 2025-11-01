@@ -1,0 +1,8 @@
+**As a** developer  
+**I want** to set up the development environment for the customer accounts service  
+**So that** I can start building and testing the microservice efficiently  
+
+**Acceptance Criteria:**  
+- [ ] Development tools installed (IDE, Git, Docker)  
+- [ ] Dependencies for accounts service installed  
+- [ ] Sample service runs locally
