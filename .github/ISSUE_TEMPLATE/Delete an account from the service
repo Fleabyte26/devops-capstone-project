@@ -1,0 +1,8 @@
+**As a** developer  
+**I want** to delete a customer account from the service  
+**So that** obsolete or incorrect accounts can be removed  
+
+**Acceptance Criteria:**  
+- [ ] Implement DELETE endpoint  
+- [ ] Confirm account is removed from storage  
+- [ ] Test deletion of accounts
