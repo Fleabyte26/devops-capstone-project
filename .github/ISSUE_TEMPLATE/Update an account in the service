@@ -1,0 +1,8 @@
+**As a** developer  
+**I want** to update a customer account in the service  
+**So that** customers’ information can be kept current  
+
+**Acceptance Criteria:**  
+- [ ] Implement PUT endpoint for updating an account  
+- [ ] Validation of input data  
+- [ ] Test updating existing account
