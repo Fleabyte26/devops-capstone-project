@@ -1,0 +1,8 @@
+**As a** developer  
+**I want** to read a customer account from the service  
+**So that** I can retrieve customer information as needed  
+
+**Acceptance Criteria:**  
+- [ ] Implement GET endpoint for account by ID  
+- [ ] Return correct account data in JSON format  
+- [ ] Write a test to validate endpoint
