@@ -1,0 +1,8 @@
+**As a** developer  
+**I want** to containerize the customer accounts service using Docker  
+**So that** the service can run consistently across environments  
+
+**Acceptance Criteria:**  
+- [ ] Dockerfile created  
+- [ ] Image builds successfully  
+- [ ] Service runs in container locally
